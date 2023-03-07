@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Myapp" type="Application" factoryName="Application" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="gui.Myapp" />
+    <module name="Projeto_1_Barras" />
+    <option name="VM_PARAMETERS" value="--module-path c:\javafx-sdk\lib --add-modules=javafx.controls" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
